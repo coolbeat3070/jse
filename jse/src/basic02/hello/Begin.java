@@ -5,7 +5,7 @@ Source : Begin.java
 Author : 박정관
 Email : coolbeat@naver.com
  * */
-class Begin{
+class Begin{}
 	
-}
+
 
