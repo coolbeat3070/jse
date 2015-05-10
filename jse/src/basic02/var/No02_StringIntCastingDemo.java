@@ -1,6 +1,6 @@
 package basic02.var;
 
-class No03_StringIntCastingDemo {
+class No02_StringIntCastingDemo {
 	
 	public static void main(String[] args) {
 		int i = 300;

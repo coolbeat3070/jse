@@ -1,6 +1,6 @@
 package basic02.var;
 
-public class No05_EscapeDemo2 {
+public class No03_EscapeDemo2 {
 	public static void main(String[] args) {
 		int  kor=90, eng=85 , sum=0 ;  
 		sum=kor + eng ;  

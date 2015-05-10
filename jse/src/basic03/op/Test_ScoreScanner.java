@@ -2,7 +2,7 @@ package basic03.op;
 
 import java.util.Scanner;
 
-public class No09_ScoreScanner {
+public class Test_ScoreScanner {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("국어점수 ? ");

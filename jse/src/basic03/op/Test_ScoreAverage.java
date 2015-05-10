@@ -1,6 +1,6 @@
 package basic03.op;
 
-public class No08_ScoreAverage {
+public class Test_ScoreAverage {
 	
 	public static void main(String[] args) {
 		int  kor=90 ,  eng=85 ,   sum=0 ;

@@ -1,4 +1,4 @@
-package basic02.var;
+package java01.lang;
 
 import java.util.ArrayList;
 import java.util.List;

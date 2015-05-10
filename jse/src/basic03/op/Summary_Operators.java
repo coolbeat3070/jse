@@ -1,6 +1,6 @@
 package basic03.op;
 
-public class SummaryOfOperators {
+public class Summary_Operators {
 /*
 Simple Assignment Operator
 

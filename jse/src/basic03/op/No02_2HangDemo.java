@@ -7,7 +7,7 @@ package basic03.op;
 단항   ++  --
 대입  +=   *=
  * */
-public class No03_2HangDemo {
+public class No02_2HangDemo {
 	public static void main(String[] args) {
 		
 		int x=20, y=7 ;

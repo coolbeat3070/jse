@@ -1,6 +1,6 @@
 package basic03.op;
 
-class No02_DanHangDemo2 {
+class No01_DanHangDemo2 {
 	public static void main(String[] args) {
 		/*후위형은 변수값을 읽어온 후 연산한다*/
 		int i = 5;

@@ -1,4 +1,4 @@
-package basic04.flow;
+package basic05.array;
 
 public class BreakDemo {
 	public static void main(String[] args) {

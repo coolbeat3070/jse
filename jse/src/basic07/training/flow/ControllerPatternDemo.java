@@ -1,4 +1,4 @@
-package basic07.training.controllerpattern;
+package basic07.training.flow;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;

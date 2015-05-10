@@ -1,6 +1,6 @@
 package basic04.flow;
 
-public class BlockDemo {
+public class No01_BlockDemo {
 	public static void main(String[] args) {
         boolean condition = true;
         if (condition) { // begin block 1

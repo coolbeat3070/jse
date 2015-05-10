@@ -1,6 +1,6 @@
 package basic04.flow;
 
-public class IfElseDemo2 {
+public class No01_IfElseDemo2 {
 	public static void main(String[] args) {
 		int  kor=90 ,  eng=85 ,   sum=0 ;
 		double  avg =0.0 ; 

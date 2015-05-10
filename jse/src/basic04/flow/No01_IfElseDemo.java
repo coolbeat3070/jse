@@ -2,7 +2,7 @@ package basic04.flow;
 
 import java.util.Scanner;
 
-public class IfElseDemo {
+public class No01_IfElseDemo {
 	int big;
 	
 
@@ -18,7 +18,7 @@ public class IfElseDemo {
 
 	}
 	public static void main(String[] args) {
-		IfElseDemo ngb = new IfElseDemo();
+		No01_IfElseDemo ngb = new No01_IfElseDemo();
 		Scanner sc = new Scanner(System.in);
 		System.out.println("A 값 입력하세요");
 		int a = sc.nextInt();

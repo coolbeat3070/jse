@@ -6,7 +6,7 @@ package basic02.var;
 	3) "\b"  backspace키
 	4) "\\"   \표시할때 
  * */
-class No04_EscapeDemo {
+class No03_EscapeDemo {
 	public static void main(String[] args) {
 		
 		

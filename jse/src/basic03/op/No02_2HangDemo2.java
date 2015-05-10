@@ -1,6 +1,6 @@
 package basic03.op;
 
-class No04_2HangDemo {
+class No02_2HangDemo2 {
 	public static void main(String[] args) {
 		int result = 5 + 5;
         System.out.println("5 + 5 = " + result);
