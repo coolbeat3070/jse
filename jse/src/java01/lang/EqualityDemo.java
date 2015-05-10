@@ -1,4 +1,4 @@
-package basic04.operators;
+package java01.lang;
 
 public class EqualityDemo {
 

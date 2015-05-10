@@ -1,6 +1,6 @@
 package basic03.variables;
 
-public class CastingDemo {
+class No02_CastingDemo {
 	public static void main(String[] args) {
 /*
 Up-Casting  
@@ -21,10 +21,11 @@ char -> int
 		double upB2 = (double)b;
 		double upI = i;
 		
-		
+		System.out.println("=====업캐스팅 테스트 출력=====");
 		System.out.println(upB);
 		System.out.println(upB2);
 		System.out.println(upI);
+		System.out.println();
 		
 /*
 Down-Casting : 
@@ -38,6 +39,7 @@ Down-Casting :
 		int downD2 = (int)d;
 		byte downI = (byte)i;
 		
+		System.out.println("=====다운캐스팅 테스트 출력=====");
 		System.out.println("123.456에서 다운캐스팅으로 0.456이 손실된 결과값 "+downD+" 입니다.");
 		System.out.println("123.456에서 다운캐스팅으로 0.456이 손실된 결과값 "+downD+" 입니다.");
 		System.out.println("123에서 다운캐스팅 결과값 "+downI+" 입니다.");

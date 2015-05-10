@@ -1,6 +1,6 @@
 package basic04.operators;
 
-public class ScoreAverage {
+public class No08_ScoreAverage {
 	
 	public static void main(String[] args) {
 		int  kor=90 ,  eng=85 ,   sum=0 ;

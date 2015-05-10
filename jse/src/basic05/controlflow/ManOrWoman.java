@@ -1,4 +1,4 @@
-package basic04.operators;
+package basic05.controlflow;
 
 public class ManOrWoman {
 String ssn = "851027-2871935";

@@ -2,7 +2,7 @@ package basic04.operators;
 
 import java.util.Scanner;
 
-public class ScoreSumKorEng {
+public class No09_ScoreScanner {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("국어점수 ? ");

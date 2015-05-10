@@ -1,6 +1,6 @@
 package basic03.variables;
 
-public class CastindDemoStringInt {
+class No03_StringIntCastingDemo {
 	
 	public static void main(String[] args) {
 		int i = 300;

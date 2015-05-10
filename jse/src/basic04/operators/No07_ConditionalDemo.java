@@ -1,6 +1,6 @@
 package basic04.operators;
 
-public class ConditionalDemo {
+public class No07_ConditionalDemo {
 	public static void main(String[] args){
         int value1 = 1;
         int value2 = 2;
