@@ -1,4 +1,4 @@
-package basic03.variables;
+package basic03.var;
 
 class No03_StringIntCastingDemo {
 	

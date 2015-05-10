@@ -1,4 +1,4 @@
-package basic03.variables;
+package basic03.var;
 /*
 [자바에서 배열 Syntax]
 1. 무조건 같은 type이어야 합니다.  type[ ] 배열 = new  type[갯수]

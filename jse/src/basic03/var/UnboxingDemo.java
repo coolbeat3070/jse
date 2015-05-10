@@ -1,4 +1,4 @@
-package basic03.variables;
+package basic03.var;
 
 import java.util.ArrayList;
 import java.util.List;

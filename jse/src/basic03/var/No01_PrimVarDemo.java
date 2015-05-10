@@ -1,4 +1,4 @@
-package basic03.variables;
+package basic03.var;
 /*
 1. 변수의 작성 규칙
 	(1) 알파벳 대소문자, 숫자, _ (underscore) , $ 만 사용가능

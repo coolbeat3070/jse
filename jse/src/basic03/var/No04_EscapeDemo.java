@@ -1,4 +1,4 @@
-package basic03.variables;
+package basic03.var;
 /*
 [자바 특수문자=Escape 반드시 "\글자" ]
 	1) "\n"  라인개행
