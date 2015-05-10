@@ -19,8 +19,7 @@ import javax.swing.JPanel;
 public class SwingCalcDemo {
 	public static void main(String[] args) {
 		SwingCalcDemo m = new SwingCalcDemo();
-	//	m.new WindowEventEx();
-		m.new CarGameTest();
+
 	}
 
 	class YouPanel extends JPanel {

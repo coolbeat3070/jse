@@ -13,7 +13,11 @@ java.lang팩키지(왼쪽상단)
 
         
         ================ JAVA1 =====================
+<<<<<<< HEAD
 [이클립스설치  C:/User/com/fundamental 에 설치하세요.]
+=======
+[이클립스설치  C:/User/com/fundamental 에 설치하세요]
+>>>>>>> branch 'master' of https://github.com/coolbeat3070/jse.git
 C:/User/com/fundamental
   eclipse-jee-luna-SR1-win32-x86_64.zip파일선택후=>오.버 => 여기에 압축풀기
   eclipse폴더/eclipse.exe보라색 => 오른쪽버튼 => 바로가기 만들기 
