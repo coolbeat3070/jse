@@ -1,0 +1,29 @@
+[자바에서 반복문 -for, while, do~while]
+1) for
+2) 
+ 
+3) 조건에 상관없이 	1회처리한후 조건에 따라 반복문 처리
+    int c=0 ;
+   do { 
+        c++ ; // 단항연산
+        System.out.print ( c + "  " ) ; 
+   }while( c<10 )  ;  
+
+
+[보조제어문]
+break, continue 단독사용불가, 에러발생
+반드시  switch문에서 break 
+무한루프에서 조건을 주어서 break
+조건을 주어서 continue사용가능함
+
+[ new연산  & static 키워드 ]
+new연산자는  클래스를 메모리영역 heap=동적할당
+동적할당 = 실행중에 메모리영역확보해서 로드시킴
+new연산자로 클래스를 heap영역에 할당시키고, 필요없을때는 해제 
+static키워드는 정적영역=변하지는않는곳=계속유지되는곳 
+
+아래처럼 다양하게 new연산자로 개체생성후 메소드접근 
+Son  tom  = new  Son(  );
+Father  john  = new Father( "홍길동" ) ;
+Scanner sc = new Scanner(System.in) ;
+//System.in의미는 키보드에서 데이타입력표준
