@@ -3,16 +3,20 @@ package basic05.array;
 public class ArrayDemo {
 	public static void main(String[] args) {
         // declares an array of integers
+		// int 타입 배열선언
         int[] anArray;
 
         // allocates memory for 10 integers
+        // 10개의 int 타입 메모리 할당
         anArray = new int[10];
-           
+        
         // initialize first element
+        // 첫번째 요소의 초기화
         anArray[0] = 100;
         // initialize second element
+        // 두번째 요소의 초기화
         anArray[1] = 200;
-        // and so forth
+        
         anArray[2] = 300;
         anArray[3] = 400;
         anArray[4] = 500;
