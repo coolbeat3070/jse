@@ -3,7 +3,7 @@ package basic05.array;
 public class BreakDemo {
 	public static void main(String[] args) {
 
-        int[] arrayOfInts = 
+        int[] arr = 
             { 32, 87, 3, 589,
               12, 1076, 2000,
               8, 622, 127 };
@@ -12,17 +12,17 @@ public class BreakDemo {
         int i;
         boolean foundIt = false;
 
-        for (i = 0; i < arrayOfInts.length; i++) {
-            if (arrayOfInts[i] == searchfor) {
+        for (i = 0; i < arr.length; i++) {
+            if (arr[i] == searchfor) {
                 foundIt = true;
-                break;
+                break;  // 찾는 즉시 멈추고 for loop 을 빠져나온다
             }
         }
 
         if (foundIt) {
-            System.out.println("Found " + searchfor + " at index " + i);
+            System.out.println("검색 대상인 " + searchfor + "는" + i + " 인덱스에 위치합니다.");
         } else {
-            System.out.println(searchfor + " not in the array");
+            System.out.println("검색 대상인 " + searchfor + " 는 배열에 없습니다.");
         }
     }
 }

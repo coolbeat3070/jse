@@ -9,12 +9,11 @@ package basic05.array;
 
 
  * */
-public class SimpleArrayDemo {
+public class StringArrayDemo {
 	public static void main(String[] args) {
 		 String[ ] juso = new String[3] ;
 		 juso[0]="서울";    juso[1]="종로";     juso[2]="광화문"; 
-		 double[ ] dd = new double[5] ;
-		 int[ ] su = {  23,  56,  98  };
+		
 	}
 	
 }
