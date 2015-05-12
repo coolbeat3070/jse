@@ -1,6 +1,6 @@
 package basic05.array;
 
-public class ArraysDemo2 {
+public class ForLoopArraysDemo2 {
 	public static void main(String[] args) {
 		int[] arr ; // 선언
 		arr = new int[4]; // 생성

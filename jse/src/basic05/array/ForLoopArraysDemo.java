@@ -1,6 +1,6 @@
 package basic05.array;
 
-public class ArraysDemo3ForLoop {
+public class ForLoopArraysDemo {
 	public static void main(String[] args) {
 		int[] arr = {1,2,3,4,5};
 		int sum=0;
