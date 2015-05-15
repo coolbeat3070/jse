@@ -1,7 +1,7 @@
 package cmm04.array;
 
 public class No03_ForLoopArrayVO {
-	private int a,b,c,d,e;
+	
 	
 	public int getA() {
 		return a;
@@ -40,10 +40,12 @@ public class No03_ForLoopArrayVO {
 	}
 
 	public void setE(int e) {
+		int a;
 		this.e = e;
 	}
-
+	private int a,b,c,d,e;
 	void testFor(int a, int b, int c, int d, int e){
+		
 		setA(a);
 		setB(b);
 		setC(c);
