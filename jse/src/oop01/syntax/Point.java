@@ -1,4 +1,4 @@
-package oop01.classes;
+package oop01.syntax;
 
 public class Point {
 	public int x = 0;

@@ -1,6 +1,6 @@
-package oop01.classes;
+package oop02.encapsule;
 
-public class PayVO {
+public class PayService {
 	String name;
 	int salary;
 	int tax;

@@ -1,4 +1,4 @@
-package oop01.classes;
+package oop02.encapsule;
 /*
  상수 선언
  * */

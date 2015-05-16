@@ -1,7 +1,7 @@
-package oop01.classes;
+package oop01.syntax;
 
 
-public class Bicycle {
+public class BicycleVO {
     
     private int cadence;
     private int gear;
@@ -9,7 +9,7 @@ public class Bicycle {
     private int id;
     private static int numberOfBicycles = 0;
         
-    public Bicycle(int startCadence, int startSpeed, int startGear) {
+    public BicycleVO(int startCadence, int startSpeed, int startGear) {
         gear = startGear;
         cadence = startCadence;
         speed = startSpeed;

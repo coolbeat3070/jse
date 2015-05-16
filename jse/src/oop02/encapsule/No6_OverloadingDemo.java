@@ -1,4 +1,4 @@
-package oop01.classes;
+package oop02.encapsule;
 
 public class No6_OverloadingDemo {
 

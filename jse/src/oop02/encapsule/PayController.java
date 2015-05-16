@@ -1,4 +1,4 @@
-package oop01.classes;
+package oop02.encapsule;
 /*
 프로그래밍 발전 단계
 1. 순차적 : GOTO , Line 번호, Fortan
@@ -29,7 +29,7 @@ package oop01.classes;
  ● 클래스란 ? 사용자 정의 데이터 타입
  ● Primitive Data Type -> 구조체(기본데이터 타입의 집합체) -> 클래스
  * */
-public class No1_ClassDemo {
+public class PayController {
 /*
 문제) 
 월말 급여 내역서 작성

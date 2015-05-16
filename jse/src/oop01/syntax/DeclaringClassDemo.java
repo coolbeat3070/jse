@@ -1,6 +1,9 @@
-package oop01.classes;
-
-public class DeclaringClassesDemo {
+package oop01.syntax;
+/*
+Date : 2015.
+Desc : 클래스 선언 Syntax
+ * */
+public class DeclaringClassDemo {
 	// field, constructor, and 
     // method declarations
 }

@@ -1,4 +1,4 @@
-package oop01.classes;
+package oop01.syntax;
 
 public class Rectangle {
 	public int width = 0;
