@@ -1,12 +1,16 @@
 package oop02.encapsule.question;
 /*
+ Date :
+ Author :
+ Desc :
+ * */
+/*
 객체지향언어의 4가지 특성
 1. 은닉화(캡슐화) ◀ 이번 Chapter 학습
 2. 상속
 3. 추상화
 4. 다형성
  * */
-
 /* 
 은닉화는 
 속성과 기능을 객체내부에 포함시키는 것
