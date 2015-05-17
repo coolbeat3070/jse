@@ -12,12 +12,4 @@ package oop01.syntax;
 
 * */
 public class ConstantDemo {
-	public static void main(String[] args) {
-		/*
-		Literal 상수
-
-		 * */		
-	}
-
-	
 }
