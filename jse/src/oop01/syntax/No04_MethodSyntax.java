@@ -21,14 +21,19 @@ Desc : 메서드 선언 Syntax
 - 메소드가 리턴하는 값과 리턴되는 값의 데이터 타입은 일치해야 함.
  * */
 /*
+메소드 호출방법
+	 참조변수.메소드이름(매개변수..);
+ * */
+/*
 메소드의 종류
-- static함수=정적함수
-- Non-static함수=일반함수
-ex) public   void  star( ) { 코드기술  }  //
-ex) public  static void  nemo( ) { 코드기술  }  //
-ex) public  String  book( ) { ~~ return "융프라우" ; } 
-ex) public  int  price( ) { ~~ return 2300 ; }  
-ex) public  void  note( ) { System.out.println( ) ;   }
+- static함수=정적함수, 클래스 메소드
+	static 이 붙어있는 메소드
+	인스턴스 멤버를 사용할 수 없다.
+	인스턴스를 사용하지 않아도 사용 가능
+- Non-static함수=일반함수, 인스턴스 메소드
+	static 이 안 붙어있다.
+	멤변 중 모든 인스턴스에 공통 사용하는 메소드
+	메소드 작업 수행시 인변을 필요로 하는 메소드
  * */
 /*오버로딩의 예시
 - 메소드중복=OverLoading 매개인자갯수나 타입만 다름

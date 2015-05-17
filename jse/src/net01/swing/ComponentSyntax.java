@@ -1,4 +1,4 @@
-package oop01.syntax;
+package net01.swing;
 /*
 Date :
 Author :
@@ -30,6 +30,6 @@ Desc : 콤포넌트 개념정리
 - 조립될 수 있는 컴포넌트 선택
 - 제공하는 인터페이스와 요구되는 인터페이스의 연결  
  * */
-public class No05_ComponentSyntax {
+public class ComponentSyntax {
 
 }
