@@ -1,4 +1,4 @@
-package oop02.encapsule.question;
+package oop02.encapsule;
 /*
  Date :
  Author :
@@ -24,6 +24,6 @@ main() 을 가지는 부분은 따로 독립시켜 IO(input & output) 만 담당
 접근 권한에 따라 단지 읽기만 하는 권한(read only) 와
 쓰고, 수정이 가능한 권한 (read & write) 로 나누는 역할도 할 수 있다.
 */
-public class No01_Kaup {
+public class EncapsuleSyntax {
 
 }

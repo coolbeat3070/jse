@@ -29,7 +29,7 @@ package oop02.encapsule;
  ● 클래스란 ? 사용자 정의 데이터 타입
  ● Primitive Data Type -> 구조체(기본데이터 타입의 집합체) -> 클래스
  * */
-public class PayController {
+public class OopConcept {
 /*
 문제) 
 월말 급여 내역서 작성
@@ -43,26 +43,6 @@ income 은 salary - tax
 실수령액 :180
 
  * */
-	public static void main(String[] args) {
-		Pay p1 = new Pay();
-		
-		p1.salary = 200;
-		p1.name = "민호";
-		p1.tax = (int)(p1.salary * 0.1);
-		p1.income = p1.salary - p1.tax;
-		
-		System.out.println("===급여 내역===");
-		System.out.println("성명 : " + p1.name);
-		System.out.println("본봉 : " + p1.salary);
-		System.out.println("세금 : " + p1.tax);
-		System.out.println("실수령액 : " + p1.income);
-		
-		
-	}
+	
 }
-class Pay{
-	String name;
-	int salary;
-	int tax;
-	int income;
-}
+

@@ -1,4 +1,4 @@
-package oop02.encapsule.answer;
+package oop02.encapsule;
 
 public class GameRpsService {
 	int win=1;

@@ -1,8 +1,6 @@
-package oop02.encapsule.answer;
+package oop02.encapsule;
 
 import java.util.Scanner;
-
-import oop02.encapsule.GameRpsVO;
 
 public class GameRpsController {
 	public static void main(String[] args) {

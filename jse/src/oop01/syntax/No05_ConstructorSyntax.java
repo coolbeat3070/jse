@@ -26,4 +26,5 @@ public class No05_ConstructorSyntax {
 	/* 예제 1. Calculator */
 	/* 예제 2. Bicycle */
 	/* 예제 3. Point, Rectangle */
+	/* 예제 4. Coffee */
 }
