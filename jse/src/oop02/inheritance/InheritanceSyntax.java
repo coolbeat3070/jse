@@ -1,4 +1,6 @@
-자바에서 클래스 상속 extends
+package oop02.inheritance;
+/*
+ 자바에서 클래스 상속 extends
 자바에서 인터페이스 상속  implements
 
 public class  Father {
@@ -17,4 +19,8 @@ interface  Mother {
   //추상메소드로만 구성 abstract키워드는 생략가능
    public int   card( ) ;
    public void house( ) ;
-}//interface END
+}//interface END 
+ * */
+public class InheritanceSyntax {
+
+}
