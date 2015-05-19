@@ -1,4 +1,4 @@
-package oop02.encapsule;
+package oop01.syntax;
 /*
 프로그래밍 발전 단계
 1. 순차적 : GOTO , Line 번호, Fortan
