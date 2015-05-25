@@ -12,10 +12,16 @@ import java.util.Scanner;
 public class ControllerPatternDemo {
 	public static void main(String[] args) throws IOException {
 		ControllerPatternDemo m = new ControllerPatternDemo();
-		System.out.println("진행 프로스세 번호 입력");
 		
-		int flag=m.getNumScanner();
-		switch(flag){
+		Scanner scanner = new Scanner(System.in);
+		int flag= 0;
+		
+		do{
+			System.out.println("원하는 진행 프로스세 번호를 입력하세요");
+			System.out.println("입력을 마치려면 0 을 입력하세요.");
+			flag = m.getNumScanner();
+			
+			switch(flag){
 			case 1 : m.exDataInputStream();break;    // 한글 깨짐
 			case 2 : m.getGugudan();break;
 			case 3 : m.getYourName();break;
@@ -23,13 +29,8 @@ public class ControllerPatternDemo {
 			case 5 : m.exFileReader();break;
 			default : System.out.println("선택값이 없습니다.");break;
 		}
-		
-		
-		
+		}while(flag!=0);
 	}
-	
-	
-	
 	public void exFileReader() throws IOException{
 		FileReader fr = null; 
 		try {
