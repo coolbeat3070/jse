@@ -23,6 +23,9 @@ public class TryCatchDemo {
 			nmg=a%b;
 		} catch (ArithmeticException e) {
 			System.out.println("0으로 나눌수 없습니다.");
+			e.printStackTrace();
+			// 예외 발생 당시의 call-stack 에 있었던
+			// 메소드 정보와 예외메시지를 화면에 출력
 		}
 		System.out.println(a+" / "+b+" = "+mok);
 		System.out.println(a+" % "+b+" = "+nmg);
